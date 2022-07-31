@@ -21,5 +21,6 @@
 * High availability server
 * Code optimizing 
 * Code quality
+* Functional Programming
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=job25721&layout=compact)](https://github.com/job25721)
