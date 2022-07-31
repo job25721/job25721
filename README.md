@@ -18,7 +18,6 @@
 
 ## Interest 
 * Microservices concept
-* High availability server
 * Code optimizing 
 * Code quality
 * Functional Programming
