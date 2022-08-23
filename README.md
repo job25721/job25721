@@ -7,6 +7,7 @@
 - Cross Platform Mobile Application Development - React Native 
 - VueJS, NuxtJS
 - Angular
+- Golang
 - CRUD(RESTful, GraphQL),Express, NestJS, WebSocket
 - NoSQL, MongoDB
 - Object Storages: Minio, Digital Ocean Spaces
